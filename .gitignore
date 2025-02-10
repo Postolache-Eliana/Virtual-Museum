@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+ p5.js Editor files (dacă folosești editorul oficial p5.js)
+.p5rc
+.p5js
+p5.temp/
+
+# Fișiere temporare generate de OS
+Thumbs.db  # Windows
+
+# Backupuri sau fișiere temporare
+*.bak
+*.swp
